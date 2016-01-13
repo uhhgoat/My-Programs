@@ -6,7 +6,7 @@ import java.awt.event.KeyListener;
 import java.awt.image.BufferedImage;
 
 import javax.swing.* ;
-
+//COMMENT
 public class MyWindow extends JFrame implements KeyListener
 {
 	int width1 = 800 ;
