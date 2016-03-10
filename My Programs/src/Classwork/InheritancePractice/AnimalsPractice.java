@@ -11,11 +11,11 @@ public class AnimalsPractice {
 		// TODO Auto-generated method stub
 		Animal a = new Dog() ;
 		Frog b = new Frog() ;
-		Dog c = a ;
+		//Dog c = a ;
 		Animal d = b ;
 		Animal[] anims = {c, b} ;
-		d.ribbit() ;
-		anims[0].wagTail() ;
+		//d.ribbit() ;
+		//anims[0].wagTail() ;
 		
 		
 //		Animal z = new Dog() ;
